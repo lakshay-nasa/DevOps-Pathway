@@ -1,0 +1,1 @@
+[Argo CD](https://github.com/dokc/explorers/blob/cf8321570cd60b8eb7268c6579e0b48cb74e6625/how-to-dok/resources/argo_workflows.md)
